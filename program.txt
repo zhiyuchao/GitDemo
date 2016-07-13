@@ -2,3 +2,8 @@ Main()
 {
     print "hello word"
 }
+
+Method()
+{
+    print "My name is xiaofeiniu"
+}
